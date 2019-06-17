@@ -1,1 +1,3 @@
-Este es el master texto
+
+Este es solamente un texto
+
